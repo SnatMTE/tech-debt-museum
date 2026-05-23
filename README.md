@@ -17,7 +17,7 @@ Everything in this repo is the stuff that didn't have a home elsewhere — assig
 
 Not every piece of code needs to be polished, production-ready, or portfolio-worthy. Some of it was written at 2 a.m. to meet a deadline, some of it was me figuring out a concept, and some of it exists just because I was curious. This repo is where all that code lives on instead of being lost to a forgotten hard drive.
 
-Oh, and **Loot Stealer** — despite its sketchy name - was just a basic loot management system for *Final Fantasy XIV*. It eventually turned into a full-blown application that uses SQLite. What you're seeing in this repo is back when the poor thing was just a simple webhook app.
+Oh, and **Loot Stealer** despite its sketchy name - was just a basic loot management system for *Final Fantasy XIV*. It eventually turned into a full-blown application that uses SQLite. What you're seeing in this repo is back when the poor thing was just a simple webhook app.
 
 ## Disclaimer
 
